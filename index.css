@@ -8,7 +8,7 @@ body{
     text-align: right;
     position: fixed;
     width: 100%;
-    background-color: #e0ebe8;
+    background-color: #202230;
 }
 .welcome{
     top: 0;
@@ -31,7 +31,6 @@ nav ul {
   }
   
   nav ul li a {
-    color: #adbbbb;
-    text-decoration: none;
+    color: #3142a1;
   }
   
